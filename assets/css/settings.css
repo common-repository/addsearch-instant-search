@@ -1,0 +1,9 @@
+table.addsearch-settings tbody tr,
+table.addsearch-instructions tbody tr {
+	display: none;
+}
+
+table.addsearch-settings.show tbody tr,
+table.addsearch-instructions.show tbody tr {
+	display: table-row;
+}
