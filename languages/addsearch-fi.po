@@ -1,0 +1,126 @@
+# Copyright (C) 2020 AddSearch Ltd.
+# This file is distributed under the same license as the AddSearch Instant Search plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: AddSearch Instant Search 2.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wordpress-plugin-2019\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-01-27T14:57:26+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: addsearch\n"
+
+#. Plugin Name of the plugin
+msgid "AddSearch Instant Search"
+msgstr "Nopea AddSearch-haku"
+
+#. Plugin URI of the plugin
+msgid "https://www.addsearch.com/product/wordpress-search-plugin/?utm_campaign=Wordpress%20Plugin&utm_source=wordpress_plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "AddSearch is an instant site search engine for your website."
+msgstr "AddSearch on nopea hakukone sivuillesi, jossa näet hakutulokset välittömästi."
+
+#. Author of the plugin
+msgid "AddSearch Ltd."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.addsearch.com/?utm_campaign=Wordpress%20Plugin&utm_source=wordpress_plugin"
+msgstr ""
+
+#: addsearch.php:239
+msgid "Settings"
+msgstr "Asetukset"
+
+#: admin/admin-notices.php:23
+msgid "Enter AddSearch Site Key in %ssettings%s page to enable AddSearch."
+msgstr "Kirjoita AddSearch avainkoodi %sasetukset%s-sivulla, jotta AddSearch-haku "
+"toimii."
+
+#: admin/settings.php:18
+msgid "AddSearch settings"
+msgstr "AddSearch-asetukset"
+
+#: admin/settings.php:18
+msgid "AddSearch"
+msgstr ""
+
+#: admin/settings.php:49
+msgid "AddSearch Settings"
+msgstr "AddSearch-asetukset"
+
+#: admin/settings.php:58
+msgid "Your Site Key"
+msgstr "Sivuston avainkoodi"
+
+#: admin/settings.php:62
+msgctxt "%s stands for function get_search_form()"
+msgid "Enter your Site Key. This will replace all search forms in your site with AddSearch. This means all instances off %s."
+msgstr "Syötä tilisi avainkoodi (public key). Haku korvaa kaikki sivustosi hakulomakkeet AddSearchilla. Tämä tarkoittaa kohtia joissa kutsutaan %s:ia."
+
+#: admin/settings.php:68
+msgid "Installation method"
+msgstr "Haun toimintatapa"
+
+#: admin/settings.php:72
+msgid "Search as you type (Widget view)"
+msgstr "Hae kirjoittaessa (widget-näkymä)"
+
+#: admin/settings.php:73
+msgid "Separate page for results"
+msgstr "Erillinen hakutulossivu"
+
+#: admin/settings.php:76
+msgid "Select whether you want to have results as you type, or a separate page for results."
+msgstr "Valitse haun toimintatapa - hae kirjoittaessa -widget, tai erillinen hakutulossivu."
+
+#: admin/settings.php:89
+msgid "About AddSearch"
+msgstr "Tietoa AddSearch-lisäosasta"
+
+#: admin/settings.php:92
+msgid "Go to <a href=\"%s\" target=\"_blank\">www.addsearch.com</a> and sign up with your WordPress website address and e-mail."
+msgstr "Mene osoitteeseen <a href=\"%s\" target=\"_blank\">www.addsearch.com</a> ja kirjaudu palveluun, johon tarvitset sähköpostin ja tämän WordPress-sivuston osoitteen."
+
+#: admin/settings.php:94
+msgid "Open the confirmation e-mail, and from the bottom, copy your Site Key."
+msgstr "Avaa vahvistussähköposti, jonka alareunasta kopioi avainkoodi."
+
+#: admin/settings.php:95
+msgid "Come back to this page in WordPress. Paste your Site Key above and click <strong>Save Changes</strong>."
+msgstr "Tule tälle sivulle takaisin. Liitä avainkoodi ylläolevaan kenttään ja klikkaa "
+       "<strong>Tallenna muutokset</strong>."
+
+#: admin/settings.php:96
+msgid "Go to <strong>Appearance &rarr; Widgets</strong>. Drag the WordPress native Search Widget to your preferred widget area."
+msgstr "Mene kohtaan <strong>Ulkoasu &rarr; Vimpaimet</strong>. Rahaa WordPressin Haku-vimpain mihin tahansa vimpainalueeseen."
+
+#: admin/settings.php:97
+msgid "If your theme has search somewhere else, it will automatically be replaced by AddSearch."
+msgstr "Jos teemassasi on haku jossakin muualla, niin sekin korvautuu AddSearch-haulla."
+
+#: admin/settings.php:98
+msgid "You're done - congrats! :)"
+msgstr "Valmista, onneksi olkoon!"
+
+#: includes/functions.php:37
+#: includes/functions.php:40
+msgctxt "label"
+msgid "Search for:"
+msgstr "Haku:"
+
+#: includes/functions.php:38
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Haku &hellip;"
+
+#: includes/functions.php:46
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hae"

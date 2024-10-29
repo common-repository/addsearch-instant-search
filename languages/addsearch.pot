@@ -1,0 +1,308 @@
+# Copyright (C) 2023 AddSearch Ltd.
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: AddSearch Instant Search 2.2.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wordpress-plugin-2019\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-13T11:02:32+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: addsearch\n"
+
+#. Plugin Name of the plugin
+msgid "AddSearch Instant Search"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.addsearch.com/product/wordpress-search-plugin/?utm_campaign=Wordpress%20Plugin&utm_source=wordpress_plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "AddSearch is an instant site search engine for your website."
+msgstr ""
+
+#. Author of the plugin
+msgid "AddSearch Ltd."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.addsearch.com/?utm_campaign=Wordpress%20Plugin&utm_source=wordpress_plugin"
+msgstr ""
+
+#: addsearch.php:180
+msgid "AddSearch settings"
+msgstr ""
+
+#: addsearch.php:180
+msgid "AddSearch"
+msgstr ""
+
+#: addsearch.php:440
+#: addsearch.php:643
+msgid "Settings"
+msgstr ""
+
+#: admin/admin-notices.php:23
+msgid "Enter AddSearch Site Key in %ssettings%s page to enable AddSearch."
+msgstr ""
+
+#: admin/settings-srp.php:10
+msgid "Display Sort by"
+msgstr ""
+
+#: admin/settings-srp.php:15
+#: admin/settings-widget.php:19
+msgid "Sort by"
+msgstr ""
+
+#: admin/settings-srp.php:18
+#: admin/settings-widget.php:22
+msgid "Relevance"
+msgstr ""
+
+#: admin/settings-srp.php:19
+#: admin/settings-widget.php:23
+msgid "Date"
+msgstr ""
+
+#: admin/settings-srp.php:23
+#: admin/settings-widget.php:27
+msgid "Display Date"
+msgstr ""
+
+#: admin/settings-srp.php:28
+msgid "Display Category"
+msgstr ""
+
+#: admin/settings-srp.php:33
+msgid "Display Results Count"
+msgstr ""
+
+#: admin/settings-srp.php:38
+#: admin/settings-widget.php:32
+msgid "Placeholder"
+msgstr ""
+
+#: admin/settings-srp.php:40
+#: admin/settings-widget.php:34
+msgid "Search"
+msgstr ""
+
+#: admin/settings-srp.php:43
+#: admin/settings-widget.php:37
+msgid "Show Suggestions"
+msgstr ""
+
+#: admin/settings-srp.php:48
+#: admin/settings-widget.php:42
+msgid "Suggestion position"
+msgstr ""
+
+#: admin/settings-srp.php:51
+#: admin/settings-widget.php:45
+msgid "Left"
+msgstr ""
+
+#: admin/settings-srp.php:52
+#: admin/settings-widget.php:46
+msgid "Right"
+msgstr ""
+
+#: admin/settings-srp.php:56
+msgid "Number of results"
+msgstr ""
+
+#: admin/settings-srp.php:65
+msgid "Show Image"
+msgstr ""
+
+#: admin/settings-srp.php:70
+#: admin/settings-widget.php:50
+msgid "Hide Logo"
+msgstr ""
+
+#: admin/settings-srp.php:75
+#: admin/settings-widget.php:55
+msgid "Google Analytics Enabled"
+msgstr ""
+
+#: admin/settings-srp.php:80
+#: admin/settings-widget.php:69
+msgid "Default View"
+msgstr ""
+
+#: admin/settings-srp.php:83
+#: admin/settings-widget.php:72
+msgid "Grid View"
+msgstr ""
+
+#: admin/settings-srp.php:84
+#: admin/settings-widget.php:73
+msgid "List View"
+msgstr ""
+
+#: admin/settings-srp.php:88
+#: admin/settings-widget.php:77
+msgid "Theme"
+msgstr ""
+
+#: admin/settings-srp.php:91
+#: admin/settings-widget.php:80
+msgid "Dark"
+msgstr ""
+
+#: admin/settings-srp.php:92
+#: admin/settings-widget.php:81
+msgid "Light"
+msgstr ""
+
+#: admin/settings-srp.php:96
+#: admin/settings-widget.php:85
+msgid "Filter Results by Language"
+msgstr ""
+
+#: admin/settings-widget.php:10
+msgid "Throttle time (milliseconds)"
+msgstr ""
+
+#: admin/settings-widget.php:60
+msgid "Widget Size"
+msgstr ""
+
+#: admin/settings-widget.php:63
+msgid "Small"
+msgstr ""
+
+#: admin/settings-widget.php:64
+msgid "Medium"
+msgstr ""
+
+#: admin/settings-widget.php:65
+msgid "Large"
+msgstr ""
+
+#: admin/settings.php:9
+#: admin/settings.php:14
+msgid "No"
+msgstr ""
+
+#: admin/settings.php:10
+#: admin/settings.php:13
+msgid "Yes"
+msgstr ""
+
+#: admin/settings.php:20
+msgid "AddSearch Settings"
+msgstr ""
+
+#: admin/settings.php:29
+msgid "Your Site Key"
+msgstr ""
+
+#: admin/settings.php:33
+msgctxt "%s stands for function get_search_form()"
+msgid "Enter your Site Key. This will replace all search forms in your site with AddSearch. This means all instances off %s."
+msgstr ""
+
+#: admin/settings.php:44
+msgid "Installation method"
+msgstr ""
+
+#: admin/settings.php:49
+msgid "Search as you type (New version)"
+msgstr ""
+
+#: admin/settings.php:50
+msgid "Separate page for results (New version)"
+msgstr ""
+
+#: admin/settings.php:51
+msgid "Search as you type (Old version)"
+msgstr ""
+
+#: admin/settings.php:52
+msgid "Separate page for results (Old version)"
+msgstr ""
+
+#: admin/settings.php:65
+msgid "Select whether you want to have results as you type, or a separate page for results."
+msgstr ""
+
+#: admin/settings.php:82
+msgid "Here is how to configure the AddSearch Plugin"
+msgstr ""
+
+#: admin/settings.php:87
+msgid "Sign-Up for <a href=\"%s\" target=\"_blank\">AddSearch Trial</a> using your WordPress email"
+msgstr ""
+
+#: admin/settings.php:89
+msgid "When prompted by the installation wizard, click index my website and choose set up crawling option in the next step"
+msgstr ""
+
+#: admin/settings.php:90
+msgid "Enter the URL for your website on the next step and click begin crawling"
+msgstr ""
+
+#: admin/settings.php:91
+msgid "Open the AddSearch dashboard, go to Setup -> Keys and Installation and copy your public site key under Your Site Key"
+msgstr ""
+
+#: admin/settings.php:92
+msgid "Install and activate the AddSearch plugin from the WordPress admin interface"
+msgstr ""
+
+#: admin/settings.php:93
+msgid "Paste the Site Key in Settings -> AddSearch and click Save"
+msgstr ""
+
+#: admin/settings.php:94
+msgid "Select whether you want to use search-as-you-type search widget (default), or separate results page"
+msgstr ""
+
+#: admin/settings.php:95
+msgid "Test your website and see if the search is working"
+msgstr ""
+
+#: admin/settings.php:96
+msgid ""
+"If you see the AddSearch bar being displayed in bottom left corner it means search is not enabled in your theme. Go to your theme settings and\r\n"
+"enable search"
+msgstr ""
+
+#: admin/settings.php:98
+msgid "You can also add %s shortcode to anyplace where you want to place the search bar"
+msgstr ""
+
+#: admin/settings.php:99
+msgid "Please note that Gutenberg plug-in search component is not automatically replaced with AddSearch Search component. We advise Gutenberg users to use the %s shortcode."
+msgstr ""
+
+#: admin/settings.php:100
+msgid "You're done - congrats! :)"
+msgstr ""
+
+#: admin/settings.php:101
+msgid "For more details, follow our instructions on %show to install AddSearch on WordPress%s."
+msgstr ""
+
+#: includes/functions.php:43
+#: includes/functions.php:46
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: includes/functions.php:44
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: includes/functions.php:52
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
